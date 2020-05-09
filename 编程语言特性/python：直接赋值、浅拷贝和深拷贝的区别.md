@@ -30,7 +30,7 @@ print('c:',c)
 #d为深拷贝，所以对a的所有操作与d无关
 print('d:',d)
 ```
-![代码结果参考](https://gitee.com/allen_lo/test/raw/master/img/test.png)
+![代码结果参考](https://github.com/szu-csse/Interviews/blob/master/img/test.png)
 
 
 解释：
